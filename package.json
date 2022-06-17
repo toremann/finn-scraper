@@ -1,12 +1,12 @@
 {
   "name": "finn-scraper",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Finn.no scraper",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Toremann",
   "license": "ISC",
   "dependencies": {
     "puppeteer": "^14.4.0"

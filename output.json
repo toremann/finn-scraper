@@ -1,0 +1,352 @@
+[
+  {
+    "tittel": "Lego City",
+    "finnkode": "262470053",
+    "pris": "1 500 kr",
+    "timestamp": "tre minutter siden",
+    "lokasjon": "Tangen"
+  },
+  {
+    "tittel": "Lego Avengers Helicarrier 76153",
+    "finnkode": "241747084",
+    "pris": "500 kr",
+    "timestamp": "tre minutter siden",
+    "lokasjon": "Vikhammer"
+  },
+  {
+    "tittel": "Lego Nexo Knights Kongens robotdrakt 70327",
+    "finnkode": "213575066",
+    "pris": "300 kr",
+    "timestamp": "ti minutter siden",
+    "lokasjon": "Oslo"
+  },
+  {
+    "tittel": "Lego Nexo Knights De Tre Brødrene 70350",
+    "finnkode": "207519764",
+    "pris": "300 kr",
+    "timestamp": "elleve minutter siden",
+    "lokasjon": "Oslo"
+  },
+  {
+    "tittel": "Ny Lego Creator bursdagsbamse (30582)",
+    "finnkode": "255186609",
+    "pris": "80 kr",
+    "timestamp": "elleve minutter siden",
+    "lokasjon": "Sandnes"
+  },
+  {
+    "tittel": "Lego 7052 Alien Conquest",
+    "finnkode": "262470244",
+    "pris": "200 kr",
+    "timestamp": "elleve minutter siden",
+    "lokasjon": "Fister"
+  },
+  {
+    "tittel": "Lego Nexo Knights Moltors lavasmadrer 70313",
+    "finnkode": "201595511",
+    "pris": "150 kr",
+    "timestamp": "tolv minutter siden",
+    "lokasjon": "Oslo"
+  },
+  {
+    "tittel": "Lego Nexo Knights Kaoskatapult 70311",
+    "finnkode": "254105756",
+    "pris": "100 kr",
+    "timestamp": "13 minutter siden",
+    "lokasjon": "Oslo"
+  },
+  {
+    "tittel": "Lego Nexo Knights Ultimate General Magmar 70338",
+    "finnkode": "254105675",
+    "pris": "100 kr",
+    "timestamp": "13 minutter siden",
+    "lokasjon": "Oslo"
+  },
+  {
+    "tittel": "Lego Nexo Knights tvillingenes giftjager 72002",
+    "finnkode": "225492647",
+    "pris": "250 kr",
+    "timestamp": "14 minutter siden",
+    "lokasjon": "Oslo"
+  },
+  {
+    "tittel": "Lego Nexo Knights Battle Suit Clay 70362",
+    "finnkode": "207515117",
+    "pris": "120 kr",
+    "timestamp": "15 minutter siden",
+    "lokasjon": "Oslo"
+  },
+  {
+    "tittel": "Lego Nexo Knights Ultimate Axl 70336",
+    "finnkode": "262466683",
+    "pris": "100 kr",
+    "timestamp": "17 minutter siden",
+    "lokasjon": "Oslo"
+  },
+  {
+    "tittel": "Lego Nexo Knights Den sorte ridderrobot 70326",
+    "finnkode": "262464693",
+    "pris": "550 kr",
+    "timestamp": "18 minutter siden",
+    "lokasjon": "Oslo"
+  },
+  {
+    "tittel": "Lego Nexo Knights Nexo Kombokrefter 70373",
+    "finnkode": "262465804",
+    "pris": "40 kr",
+    "timestamp": "18 minutter siden",
+    "lokasjon": "Oslo"
+  },
+  {
+    "tittel": "Stor kasse Lego",
+    "finnkode": "262468730",
+    "pris": "1 200 kr",
+    "timestamp": "19 minutter siden",
+    "lokasjon": "Tangen"
+  },
+  {
+    "tittel": "Lego - Kasse",
+    "finnkode": "262468001",
+    "pris": "1 000 kr",
+    "timestamp": "31 minutter siden",
+    "lokasjon": "Tangen"
+  },
+  {
+    "tittel": "100% Ny uåpnet Lego Marvel Super Heroes 76166 Avengers Towerå",
+    "finnkode": "262467792",
+    "pris": "1 499 kr",
+    "timestamp": "32 minutter siden",
+    "lokasjon": "Sandnes"
+  },
+  {
+    "tittel": "Uåpnet Lego hidden side Skolebussen",
+    "finnkode": "255159288",
+    "pris": "700 kr",
+    "timestamp": "41 minutter siden",
+    "lokasjon": "Oslo"
+  },
+  {
+    "tittel": "Lego city, technic og creator",
+    "finnkode": "262464463",
+    "pris": "350 kr",
+    "timestamp": "en time siden",
+    "lokasjon": "Sandvika"
+  },
+  {
+    "tittel": "Lego 6783",
+    "finnkode": "254099409",
+    "pris": "1 000 kr",
+    "timestamp": "en time siden",
+    "lokasjon": "Raufoss"
+  },
+  {
+    "tittel": "Lego 6388 Holiday Home. Komplett med byggeinstruksjon",
+    "finnkode": "248455990",
+    "pris": "1 200 kr",
+    "timestamp": "en time siden",
+    "lokasjon": "Horten"
+  },
+  {
+    "tittel": "Lego friends, elves og Disney",
+    "finnkode": "262461436",
+    "pris": "800 kr",
+    "timestamp": "en time siden",
+    "lokasjon": "Sandvika"
+  },
+  {
+    "tittel": "Lego tom boks fra 1978",
+    "finnkode": "262461963",
+    "pris": "70 kr",
+    "timestamp": "to timer siden",
+    "lokasjon": "Minnesund"
+  },
+  {
+    "tittel": "Lekebøtte? Lego-boks til oppbevaring (Duplo) Klosser følger ikke med)",
+    "finnkode": "262460474",
+    "pris": "100 kr",
+    "timestamp": "to timer siden",
+    "lokasjon": "Hvalstad"
+  },
+  {
+    "tittel": "Lekebøtte? Lego-boks til oppbevaring (Duplo) Klosser følger ikke med",
+    "finnkode": "262458862",
+    "pris": "100 kr",
+    "timestamp": "to timer siden",
+    "lokasjon": "Hvalstad"
+  },
+  {
+    "tittel": "Lego eske fra 1977",
+    "finnkode": "262459307",
+    "pris": "70 kr",
+    "timestamp": "to timer siden",
+    "lokasjon": "Minnesund"
+  },
+  {
+    "tittel": "duplo byggeklosser",
+    "finnkode": "262458347",
+    "pris": "300 kr",
+    "timestamp": "to timer siden",
+    "lokasjon": "Tønsberg"
+  },
+  {
+    "tittel": "Lego Palpatine’s Arrest 9526",
+    "finnkode": "262100272",
+    "pris": "Til salgs",
+    "timestamp": "to timer siden",
+    "lokasjon": "Oslo"
+  },
+  {
+    "tittel": "LEGO RINGENES HERRE MORIAS MINER",
+    "finnkode": "262458357",
+    "pris": "1 000 kr",
+    "timestamp": "to timer siden",
+    "lokasjon": "Oslo"
+  },
+  {
+    "tittel": "Lego Witch King",
+    "finnkode": "260633745",
+    "pris": "260 kr",
+    "timestamp": "to timer siden",
+    "lokasjon": "Oslo"
+  },
+  {
+    "tittel": "Lego TIE Fighter Pilot",
+    "finnkode": "260698170",
+    "pris": "90 kr",
+    "timestamp": "to timer siden",
+    "lokasjon": "Oslo"
+  },
+  {
+    "tittel": "Lego Scout Trooper (Black Legs)",
+    "finnkode": "260650395",
+    "pris": "110 kr",
+    "timestamp": "to timer siden",
+    "lokasjon": "Oslo"
+  },
+  {
+    "tittel": "Lego friends 3061 City park café",
+    "finnkode": "262456589",
+    "pris": "120 kr",
+    "timestamp": "to timer siden",
+    "lokasjon": "Ramnes"
+  },
+  {
+    "tittel": "LEGO Ninjago Masters of Spinjitzu 70634",
+    "finnkode": "158950684",
+    "pris": "79 kr",
+    "timestamp": "tre timer siden",
+    "lokasjon": "Bøn"
+  },
+  {
+    "tittel": "LEGO Motorsykkelhjul (88517c02)",
+    "finnkode": "246030724",
+    "pris": "149 kr",
+    "timestamp": "tre timer siden",
+    "lokasjon": "Bøn"
+  },
+  {
+    "tittel": "LEGO Gremlins - Gizmo (dim032)",
+    "finnkode": "234091925",
+    "pris": "179 kr",
+    "timestamp": "tre timer siden",
+    "lokasjon": "Bøn"
+  },
+  {
+    "tittel": "Lego Friens Juice bar 41035",
+    "finnkode": "210054493",
+    "pris": "200 kr",
+    "timestamp": "tre timer siden",
+    "lokasjon": "Ramnes"
+  },
+  {
+    "tittel": "Lego Friends 41058 kjøpesenter",
+    "finnkode": "226907934",
+    "pris": "550 kr",
+    "timestamp": "tre timer siden",
+    "lokasjon": "Ramnes"
+  },
+  {
+    "tittel": "Lego friends 41059 Jungle falls rescue",
+    "finnkode": "262452591",
+    "pris": "150 kr",
+    "timestamp": "tre timer siden",
+    "lokasjon": "Ramnes"
+  },
+  {
+    "tittel": "Lego friends 3934 Mia´s puppy house",
+    "finnkode": "262452208",
+    "pris": "80 kr",
+    "timestamp": "tre timer siden",
+    "lokasjon": "Ramnes"
+  },
+  {
+    "tittel": "Lego Friends 41004 øvelsesscene",
+    "finnkode": "226914306",
+    "pris": "150 kr",
+    "timestamp": "tre timer siden",
+    "lokasjon": "Ramnes"
+  },
+  {
+    "tittel": "LEGO Colosseum",
+    "finnkode": "262449585",
+    "pris": "4 000 kr",
+    "timestamp": "tre timer siden",
+    "lokasjon": "Vøyenenga"
+  },
+  {
+    "tittel": "Lego friends 41059 Jungle Tree Sanctuary",
+    "finnkode": "262451243",
+    "pris": "150 kr",
+    "timestamp": "tre timer siden",
+    "lokasjon": "Ramnes"
+  },
+  {
+    "tittel": "LEGO BrickHeadz Wonder Woman 4159",
+    "finnkode": "245881010",
+    "pris": "50 kr",
+    "timestamp": "tre timer siden",
+    "lokasjon": "Vigrestad"
+  },
+  {
+    "tittel": "Lego CMF Serie 1 Demolotion Dummy",
+    "finnkode": "247619119",
+    "pris": "100 kr",
+    "timestamp": "tre timer siden",
+    "lokasjon": "Vigrestad"
+  },
+  {
+    "tittel": "Lego CMF Serie 1 Deep Sea Diver",
+    "finnkode": "247618632",
+    "pris": "75 kr",
+    "timestamp": "tre timer siden",
+    "lokasjon": "Vigrestad"
+  },
+  {
+    "tittel": "Lego CMF Serie 1 Zombie",
+    "finnkode": "247619402",
+    "pris": "150 kr",
+    "timestamp": "tre timer siden",
+    "lokasjon": "Vigrestad"
+  },
+  {
+    "tittel": "Lego World Racers Wreckage Road 8898",
+    "finnkode": "247821646",
+    "pris": "150 kr",
+    "timestamp": "tre timer siden",
+    "lokasjon": "Vigrestad"
+  },
+  {
+    "tittel": "Lego Friends 41026 sunshine harvest",
+    "finnkode": "226913982",
+    "pris": "100 kr",
+    "timestamp": "tre timer siden",
+    "lokasjon": "Ramnes"
+  },
+  {
+    "tittel": "2 sett Lego Friends Downtown bakery 41006",
+    "finnkode": "210047667",
+    "pris": "200 kr",
+    "timestamp": "tre timer siden",
+    "lokasjon": "Ramnes"
+  }
+]

@@ -1,5 +1,10 @@
 const puppeteer = require("puppeteer");
+const fs = require("fs");
+const path = require("path");
 
+const dir = process.env.OUT_DIR || __dirname;
+
+// searchterm ex. lego+star+wars
 const searchTerm = "lego";
 
 const URL = `https://www.finn.no/bap/forsale/search.html?abTestKey=controlsuggestions&q=${searchTerm}&sort=PUBLISHED_DESC`;
@@ -56,6 +61,11 @@ async function start() {
     });
     return annonseArr;
   });
+
+  fs.writeFileSync(
+    path.join(dir, "output.json"),
+    JSON.stringify(getAnnonser, null, 2)
+  );
 
   console.log(getAnnonser);
 
