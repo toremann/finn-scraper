@@ -62,6 +62,10 @@ async function start() {
     return annonseArr;
   });
 
+  fs.renameSync(
+     'output.json', 'output_old.json'
+    );
+
   fs.writeFileSync(
     path.join(dir, "output.json"),
     JSON.stringify(getAnnonser, null, 2)
@@ -72,4 +76,4 @@ async function start() {
   await browser.close();
 }
 
-start();
+module.exports.start = start;
